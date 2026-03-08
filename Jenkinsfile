@@ -1,4 +1,4 @@
-ipipeline {
+pipeline {
     agent { label 'jenkinfile' }
 
     environment {
